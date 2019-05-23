@@ -40,13 +40,21 @@ _Спеціальні курси у кожної кафедри свої._
 
 ## Логістика
 
+### Сайти
+
+- [Кафедра &laquo;Обчислювальної математики&raquo;](http://om.univ.kiev.ua/ua/)
+
+- [Кафедра &laquo;Дослідження операцій&raquo;](http://do.unicyb.kiev.ua/)
+
+- [Кафедра &laquo;Моделювання складних систем&raquo;](http://mss.unicyb.kiev.ua/)
+
 ### Розклад
 
 - [Кафедра &laquo;Обчислювальної математики&raquo;](https://mytimetable.live/schedule/OM-3)
 
 - [Кафедра &laquo;Дослідження операцій&raquo;](https://mytimetable.live/schedule/DO-3)
 
-- [Кафедра &laquo;Моделювання складних систем&raquo;]https://mytimetable.live/schedule/MSS-3)
+- [Кафедра &laquo;Моделювання складних систем&raquo;](https://mytimetable.live/schedule/MSS-3)
 
 ### Графік сесії
 
